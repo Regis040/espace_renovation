@@ -1,0 +1,69 @@
+.nav_bg-color {
+    background-color: #112e3e;
+}
+
+.txt_style {
+    color:white;
+    font-size: 15px;
+    padding: 2px;
+    margin-left: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1 {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.paragraphe_presentation {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.demande-rens  {
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.btn a{
+    font-size: 15px;
+    padding: 10px;
+    background-color: #112e3e;
+    color: white;
+    border-radius: 5px;
+}
+
+.realisations_titre {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 3rem;
+    margin-bottom: 10px;
+    color: #112e3e;
+    }
+
+    .footer-style {
+        background-color: #112e3e;
+        color: white;
+        
+    }
+    
+    footer .logo {
+        height: 100px;
+    }
+    
+    
+    .border_left {    
+        border-left:2px solid white;
+    }
+    
+    .centre {
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    .margin {
+        margin-left: auto;
+        margin-right: auto;
+    }
